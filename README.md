@@ -1,3 +1,1 @@
-# Hi 👋
-
-![Banner](./assets/dark.svg)
+![Banner](./dark.svg)
