@@ -1,7 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="GitHub Banner" src="./assets/dark.svg">
-  </picture>
-</p>
+# Hi 👋
+
+![Banner](./assets/dark.svg)
