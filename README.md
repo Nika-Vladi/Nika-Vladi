@@ -1,1 +1,1 @@
-![Banner](./light.svg)
+![Banner](./dark.svg)
